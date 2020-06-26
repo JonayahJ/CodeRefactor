@@ -9,17 +9,3 @@ Horiseon is an SEO marketing company that needs their website to be accessible a
 * Added alt tags for all the images,
 * Cleaned up the code,
 * And added comments to nake it easy for another coder to make edits after me.
-
-## Installation:
-
-To access the Horiseon webpage, go to: git@github.com:JonayahJ/HW1.git.
-
-## Usage:
-
-
-
-## Credits:
-
-
-
-## License:
